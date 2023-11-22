@@ -1,1 +1,1 @@
-vless://cde0d4df-9f5a-4f00-896a-b47d2856c236@www.kifpool.me:443?security=tls&sni=soft.diginaakoo.ir&alpn=h2&fp=randomized&type=ws&path=/?ed%3D4096&host=time1.diginaakoo.ir&encryption=none#time1.diginaakoo.ir
+2
